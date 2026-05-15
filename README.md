@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**enzo2304/enzo2304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+I'm Enzo, an Information Systems student based in Argentina. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm focused on **Backend Development** and **Data Communication**, with a strong interest in building scalable systems and ensuring data integrity. I enjoy solving complex logical problems and optimizing system performance.
+
+This is my personal space where I share my projects, technical experiments, and everything I'm building as I progress in my degree.
+
+---
+
+### 🛠 Tools & Tech
+
+* **Languages:** Java, Python, C, PHP.
+* **Database:** SQL (PostgreSQL/MySQL), Eloquent ORM.
+* **Frameworks & Tools:** Laravel, Git, GitHub, Jira.
+* **Systems Theory:** Operating Systems, Distributed Systems, Agile Methodologies (Scrum).
+
+---
+
+### 📚 A Bit About Me
+
+* 🎓 Third-year Information Systems student.
+* ⚽ Fan of River Plate.
+* 🛠 I like DIY projects and fixing things (from headphones to motorbikes).
+* 🎮 I enjoy playing video games in my free time.
+
+---
