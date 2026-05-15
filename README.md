@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Hi there 👋
-
 I'm Enzo, an Information Systems student based in Argentina. 
 
 I'm focused on **Backend Development** and **Data Communication**, with a strong interest in building scalable systems and ensuring data integrity. I enjoy solving complex logical problems and optimizing system performance.
